@@ -1,2 +1,2 @@
-- [Home](README.md)
-- [Setup](setup.md)
+* [Home](README.md)
+* [Setup](setup.md)
